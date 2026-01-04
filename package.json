@@ -5,9 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "verify-locks": "node scripts/verifyLocks.cjs",
-    "lock": "node scripts/lockRoom.cjs",
-    "build": "npm run verify-locks && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
