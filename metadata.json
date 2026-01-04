@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "ENOCH - Diálogo Sábio e Interpretação",
+  "description": "Portal místico para conversação em tempo real e interpretação de sonhos com o sábio Enoch."
+}
